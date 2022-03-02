@@ -1,6 +1,13 @@
+
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋 , I'm MonRá! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=monrapps&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div>
+<details>
+      <summary>more coding stats...</summary>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
