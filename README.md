@@ -3,7 +3,7 @@
 
 <div>
 <details>
-      <summary>Click here to see my coding stats...</summary>
+      <summary>more coding stats...</summary>
       
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
