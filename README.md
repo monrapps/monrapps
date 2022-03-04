@@ -62,9 +62,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
@@ -109,16 +109,24 @@ Sunday       41 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.0%
+Other                    3 hrs 11 mins       ███████████████████░░░░░░   77.66% 
+C++                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+C#                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.0%
+Visual Studio            4 hrs 5 mins        █████████████████████████   99.89% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🐱‍💻 Projects: 
-LinkSafe Service         0 secs              █████████████████████████   100.0%
+LinkSafe Service         3 hrs 13 mins       ███████████████████░░░░░░   78.46% 
+ConsoleApplication1      52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+OneSafe.Back             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  4 hrs 5 mins        █████████████████████████   99.89% 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 ```
 
@@ -139,7 +147,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/03/2022 23:11:59 UTC
+ Last Updated on 04/03/2022 12:29:18 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
