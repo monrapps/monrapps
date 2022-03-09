@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
 
@@ -70,7 +70,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 483 Contributions in the Year 2022
+> 🏆 507 Contributions in the Year 2022
  > 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
@@ -83,9 +83,9 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    372 commits    ████████░░░░░░░░░░░░░░░░░   31.53% 
+🌞 Morning    373 commits    ████████░░░░░░░░░░░░░░░░░   31.61% 
 🌆 Daytime    562 commits    ████████████░░░░░░░░░░░░░   47.63% 
-🌃 Evening    241 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
+🌃 Evening    240 commits    █████░░░░░░░░░░░░░░░░░░░░   20.34% 
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 ```
@@ -93,9 +93,9 @@ const monra = {
 
 ```text
 Monday       241 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
-Tuesday      259 commits    █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-Wednesday    241 commits    █████░░░░░░░░░░░░░░░░░░░░   20.42% 
-Thursday     185 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Tuesday      262 commits    █████░░░░░░░░░░░░░░░░░░░░   22.2% 
+Wednesday    240 commits    █████░░░░░░░░░░░░░░░░░░░░   20.34% 
+Thursday     183 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
 Friday       149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
 Saturday     64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
 Sunday       41 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
@@ -148,7 +148,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/03/2022 12:29:20 UTC
+ Last Updated on 09/03/2022 00:56:21 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
