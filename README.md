@@ -62,9 +62,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
@@ -109,20 +109,23 @@ Sunday       41 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.57% 
-Other                    1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   33.16% 
-C                        56 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
-C#                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+C++                      2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   42.46% 
+Other                    1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.59% 
+C                        1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+C#                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Visual Studio            5 hrs 4 mins        █████████████████████████   100.0%
+Visual Studio            5 hrs 19 mins       █████████████████████████   100.0% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-LinkSafe Service         4 hrs 8 mins        ████████████████████░░░░░   81.67% 
-LinkSafe Driver          55 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.33%
+LinkSafe Service         4 hrs 8 mins        ███████████████████░░░░░░   77.8% 
+LinkSafe Driver          1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   22.2% 
+OneSafe.Back             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.0%
+Windows                  5 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -143,7 +146,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/03/2022 01:00:23 UTC
+ Last Updated on 17/03/2022 18:23:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
