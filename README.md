@@ -62,9 +62,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
@@ -109,24 +109,21 @@ Sunday       50 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   1 hr 8 mins         █████████████░░░░░░░░░░░░   52.54% 
-XML                      32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87% 
-Java                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
-C++                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+Kotlin                   45 mins             ██████████████░░░░░░░░░░░   57.39% 
+XML                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51% 
+Java                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Android Studio           2 hrs 1 min         ███████████████████████░░   93.16% 
-Visual Studio            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.84%
+Android Studio           1 hr 19 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HotRS                    1 hr 48 mins        ████████████████████░░░░░   83.03% 
-HotRS-Watch              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-LinkSafe Service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.84%
+HotRS                    1 hr 12 mins        ███████████████████████░░   92.13% 
+HotRS-Watch              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
 
 💻 Operating System: 
-Mac                      1 hr 43 mins        ███████████████████░░░░░░   79.32% 
-Windows                  26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68%
+Mac                      1 hr 1 min          ███████████████████░░░░░░   77.2% 
+Windows                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   22.8%
 
 ```
 
@@ -147,7 +144,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 12:28:40 UTC
+ Last Updated on 26/04/2022 18:29:45 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
