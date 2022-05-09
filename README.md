@@ -70,13 +70,13 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,155 Contributions in the Year 2022
+> 🏆 1,154 Contributions in the Year 2022
  > 
 > 📦 17.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -139,7 +139,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/05/2022 12:31:21 UTC
+ Last Updated on 09/05/2022 18:30:03 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
