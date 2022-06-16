@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,7 +70,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,432 Contributions in the Year 2022
+> 🏆 1,434 Contributions in the Year 2022
  > 
 > 📦 17.2 kB Used in GitHub's Storage 
  > 
@@ -83,8 +83,8 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    396 commits    ███████░░░░░░░░░░░░░░░░░░   30.77% 
-🌆 Daytime    655 commits    ████████████░░░░░░░░░░░░░   50.89% 
+🌞 Morning    398 commits    ███████░░░░░░░░░░░░░░░░░░   30.92% 
+🌆 Daytime    653 commits    ████████████░░░░░░░░░░░░░   50.74% 
 🌃 Evening    179 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
 🌙 Night      57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
 
@@ -95,8 +95,8 @@ const monra = {
 Monday       261 commits    █████░░░░░░░░░░░░░░░░░░░░   20.28% 
 Tuesday      321 commits    ██████░░░░░░░░░░░░░░░░░░░   24.94% 
 Wednesday    252 commits    █████░░░░░░░░░░░░░░░░░░░░   19.58% 
-Thursday     195 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Friday       141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
+Thursday     197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Friday       139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
 Saturday     71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.52% 
 Sunday       46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
@@ -138,7 +138,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 06:21:43 UTC
+ Last Updated on 16/06/2022 12:32:26 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
