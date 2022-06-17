@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,7 +70,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,483 Contributions in the Year 2022
+> 🏆 1,484 Contributions in the Year 2022
  > 
 > 📦 17.3 kB Used in GitHub's Storage 
  > 
@@ -93,10 +93,10 @@ const monra = {
 
 ```text
 Monday       262 commits    █████░░░░░░░░░░░░░░░░░░░░   20.36% 
-Tuesday      322 commits    ██████░░░░░░░░░░░░░░░░░░░   25.02% 
+Tuesday      321 commits    ██████░░░░░░░░░░░░░░░░░░░   24.94% 
 Wednesday    252 commits    █████░░░░░░░░░░░░░░░░░░░░   19.58% 
 Thursday     199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-Friday       137 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Friday       138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
 Saturday     69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
 Sunday       46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
@@ -138,7 +138,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 12:38:08 UTC
+ Last Updated on 17/06/2022 18:21:47 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
