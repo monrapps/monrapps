@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,15 +109,19 @@ Sunday       46 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C                        0 secs              ████████░░░░░░░░░░░░░░░░░   34.12% 
-C++                      0 secs              ████████░░░░░░░░░░░░░░░░░   33.76% 
-Other                    0 secs              ████████░░░░░░░░░░░░░░░░░   32.12%
+TypeScript               33 mins             ███████████████████████░░   95.11% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-Visual Studio            1 min               █████████████████████████   100.0%
+VS Code                  33 mins             ███████████████████████░░   95.23% 
+Visual Studio            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.77%
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+Mac                      33 mins             ███████████████████████░░   95.23% 
+Windows                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.77%
 
 ```
 
@@ -138,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2022 01:11:25 UTC
+ Last Updated on 18/06/2022 06:20:45 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
