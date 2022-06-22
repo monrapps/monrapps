@@ -66,11 +66,11 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,603 Contributions in the Year 2022
+> 🏆 1,627 Contributions in the Year 2022
  > 
 > 📦 17.3 kB Used in GitHub's Storage 
  > 
@@ -83,20 +83,20 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    408 commits    ████████░░░░░░░░░░░░░░░░░   31.7% 
-🌆 Daytime    636 commits    ████████████░░░░░░░░░░░░░   49.42% 
+🌞 Morning    421 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
+🌆 Daytime    620 commits    ████████████░░░░░░░░░░░░░   48.17% 
 🌃 Evening    182 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
-🌙 Night      61 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
+🌙 Night      64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.97%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       301 commits    █████░░░░░░░░░░░░░░░░░░░░   23.39% 
-Tuesday      288 commits    █████░░░░░░░░░░░░░░░░░░░░   22.38% 
-Wednesday    254 commits    █████░░░░░░░░░░░░░░░░░░░░   19.74% 
-Thursday     174 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-Friday       143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Monday       300 commits    █████░░░░░░░░░░░░░░░░░░░░   23.31% 
+Tuesday      279 commits    █████░░░░░░░░░░░░░░░░░░░░   21.68% 
+Wednesday    269 commits    █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+Thursday     172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+Friday       140 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
 Saturday     74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
 Sunday       53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.12%
 
@@ -142,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/06/2022 12:32:27 UTC
+ Last Updated on 22/06/2022 18:25:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
