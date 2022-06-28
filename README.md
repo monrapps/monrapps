@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,17 +109,17 @@ Sunday       50 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      50 mins             ██████████░░░░░░░░░░░░░░░   40.88% 
-Other                    46 mins             █████████░░░░░░░░░░░░░░░░   37.86% 
-C                        16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
+C++                      50 mins             ███████████░░░░░░░░░░░░░░   44.26% 
+Other                    40 mins             █████████░░░░░░░░░░░░░░░░   36.13% 
+C                        16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-Visual Studio            2 hrs 2 mins        █████████████████████████   100.0%
+Visual Studio            1 hr 53 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.0%
+Windows                  1 hr 53 mins        █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +140,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 01:21:17 UTC
+ Last Updated on 28/06/2022 06:26:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
