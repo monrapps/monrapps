@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,7 +70,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,022 Contributions in the Year 2022
+> 🏆 2,036 Contributions in the Year 2022
  > 
 > 📦 17.5 kB Used in GitHub's Storage 
  > 
@@ -83,8 +83,8 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    423 commits    ████████░░░░░░░░░░░░░░░░░   34.5% 
-🌆 Daytime    593 commits    ████████████░░░░░░░░░░░░░   48.37% 
+🌞 Morning    416 commits    ████████░░░░░░░░░░░░░░░░░   33.93% 
+🌆 Daytime    600 commits    ████████████░░░░░░░░░░░░░   48.94% 
 🌃 Evening    160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
 🌙 Night      50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
 
@@ -93,9 +93,9 @@ const monra = {
 
 ```text
 Monday       272 commits    █████░░░░░░░░░░░░░░░░░░░░   22.19% 
-Tuesday      209 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Wednesday    237 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-Thursday     201 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Tuesday      220 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
+Wednesday    230 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.76% 
+Thursday     197 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Friday       190 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
 Saturday     74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
 Sunday       43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
@@ -138,7 +138,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2022 12:44:33 UTC
+ Last Updated on 12/07/2022 18:25:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
