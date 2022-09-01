@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -109,17 +109,19 @@ Sunday       31 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       31 hrs 47 mins      ███████████████████░░░░░░   77.2% 
-Other                    9 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   22.19% 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-XAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+C#                       29 hrs 3 mins       ███████████████████░░░░░░   77.96% 
+Other                    7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-Visual Studio            41 hrs 10 mins      █████████████████████████   100.0%
+Visual Studio            36 hrs 53 mins      ████████████████████████░   99.0% 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 💻 Operating System: 
-Windows                  41 hrs 10 mins      █████████████████████████   100.0%
+Windows                  36 hrs 53 mins      ████████████████████████░   99.0% 
+Mac                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 ```
 
@@ -140,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 06:40:01 UTC
+ Last Updated on 01/09/2022 12:40:47 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
