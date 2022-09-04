@@ -62,9 +62,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
@@ -80,6 +80,51 @@ const monra = {
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    401 commits    █████████░░░░░░░░░░░░░░░░   36.22% 
+🌆 Daytime    513 commits    ███████████░░░░░░░░░░░░░░   46.34% 
+🌃 Evening    140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌙 Night      53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       276 commits    ██████░░░░░░░░░░░░░░░░░░░   24.93% 
+Tuesday      197 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+Wednesday    174 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+Thursday     197 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+Friday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Saturday     70 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+Sunday       31 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       9 hrs 38 mins       ██████████████████░░░░░░░   75.27% 
+Other                    2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+XAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+
+🔥 Editors: 
+Visual Studio            12 hrs 13 mins      ███████████████████████░░   95.34% 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
+
+💻 Operating System: 
+Windows                  12 hrs 13 mins      ███████████████████████░░   95.34% 
+Mac                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -97,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 12:41:15 UTC
+ Last Updated on 04/09/2022 18:22:21 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
