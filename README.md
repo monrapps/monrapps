@@ -109,13 +109,13 @@ Sunday       31 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -136,7 +136,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 06:35:27 UTC
+ Last Updated on 10/09/2022 12:38:53 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
