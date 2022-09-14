@@ -80,45 +80,6 @@ const monra = {
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    415 commits    █████████░░░░░░░░░░░░░░░░   37.39% 
-🌆 Daytime    500 commits    ███████████░░░░░░░░░░░░░░   45.05% 
-🌃 Evening    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
-🌙 Night      51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       291 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22% 
-Tuesday      191 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
-Wednesday    156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-Thursday     196 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Friday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-Saturday     74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Sunday       35 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -136,7 +97,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 01:26:30 UTC
+ Last Updated on 14/09/2022 06:54:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
