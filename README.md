@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -109,17 +109,19 @@ Sunday       35 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     8 mins              ███████████████████░░░░░░   78.96% 
-GitIgnore file           2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.68% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Python                   10 mins             ██████████░░░░░░░░░░░░░░░   39.99% 
+Java                     8 mins              ████████░░░░░░░░░░░░░░░░░   33.53% 
+JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
+GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-Android Studio           11 mins             █████████████████████████   100.0%
+VS Code                  15 mins             ██████████████░░░░░░░░░░░   57.54% 
+Android Studio           11 mins             ██████████░░░░░░░░░░░░░░░   42.46%
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.0%
+Mac                      15 mins             ██████████████░░░░░░░░░░░   57.54% 
+Windows                  11 mins             ██████████░░░░░░░░░░░░░░░   42.46%
 
 ```
 
@@ -140,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 02:04:48 UTC
+ Last Updated on 30/09/2022 06:55:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
