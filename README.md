@@ -109,14 +109,13 @@ Sunday       34 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   43 mins             ██████████████████████░░░   90.33% 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.67%
+Python                   33 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.0%
+VS Code                  33 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.0%
+Mac                      33 mins             █████████████████████████   100.0%
 
 ```
 
@@ -137,7 +136,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 01:43:29 UTC
+ Last Updated on 07/10/2022 06:43:04 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
