@@ -27,9 +27,9 @@
 </a>
 
 </br>
-
+<!--
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=monrapps&theme=chartreuse-dark)](https://github.com/monrapps/)
-
+-->
 <div>
 <details>
       <summary>more...</summary>
