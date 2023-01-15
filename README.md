@@ -109,16 +109,15 @@ Sunday       29 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-MQL                      25 mins             ████████████████████████░   98.77% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+MQL                      4 mins              ████████████████████████░   98.29% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-Visual Studio            15 mins             ███████████████░░░░░░░░░░   60.38% 
-VS Code                  10 mins             ██████████░░░░░░░░░░░░░░░   39.62%
+VS Code                  5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.0%
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +126,7 @@ Windows                  26 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2023 01:07:47 UTC
+ Last Updated on 15/01/2023 06:19:42 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
