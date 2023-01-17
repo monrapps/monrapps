@@ -62,15 +62,15 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 250 Contributions in the Year 2023
+> 🏆 262 Contributions in the Year 2023
  > 
 > 📦 19.6 kB Used in GitHub's Storage 
  > 
@@ -83,22 +83,22 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    373 commits    █████████░░░░░░░░░░░░░░░░   36.35% 
-🌆 Daytime    476 commits    ███████████░░░░░░░░░░░░░░   46.39% 
-🌃 Evening    133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
-🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+🌞 Morning    379 commits    █████████░░░░░░░░░░░░░░░░   36.87% 
+🌆 Daytime    474 commits    ███████████░░░░░░░░░░░░░░   46.11% 
+🌃 Evening    130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       243 commits    ██████░░░░░░░░░░░░░░░░░░░   23.68% 
-Tuesday      165 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Wednesday    227 commits    █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-Thursday     174 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Friday       116 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Saturday     72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-Sunday       29 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
+Monday       246 commits    ██████░░░░░░░░░░░░░░░░░░░   23.93% 
+Tuesday      171 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+Wednesday    225 commits    █████░░░░░░░░░░░░░░░░░░░░   21.89% 
+Thursday     170 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Friday       114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
+Saturday     73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
+Sunday       29 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
 
 ```
 
@@ -126,7 +126,7 @@ Windows                  10 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2023 06:24:34 UTC
+ Last Updated on 17/01/2023 12:32:43 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
