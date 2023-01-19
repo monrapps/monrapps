@@ -72,7 +72,7 @@ const monra = {
 
 > 🏆 285 Contributions in the Year 2023
  > 
-> 📦 19.6 kB Used in GitHub's Storage 
+> 📦 19.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,8 +112,8 @@ Sunday       29 commits     ░░░░░░░░░░░░░░░░░�
 MQL                      5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 mins              ███████████████░░░░░░░░░░   62.72% 
-Visual Studio            2 mins              █████████░░░░░░░░░░░░░░░░   37.28%
+VS Code                  3 mins              ████████████████░░░░░░░░░   64.13% 
+Visual Studio            2 mins              █████████░░░░░░░░░░░░░░░░   35.87%
 
 💻 Operating System: 
 Windows                  5 mins              █████████████████████████   100.0%
@@ -125,7 +125,7 @@ Windows                  5 mins              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/01/2023 01:06:55 UTC
+ Last Updated on 19/01/2023 06:21:42 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
