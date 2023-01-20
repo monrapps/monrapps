@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -109,14 +109,14 @@ Sunday       29 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-MQL                      5 mins              █████████████████████████   100.0%
+MQL                      9 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 mins              ████████████████░░░░░░░░░   64.13% 
-Visual Studio            2 mins              █████████░░░░░░░░░░░░░░░░   35.87%
+VS Code                  7 mins              ███████████████████░░░░░░   78.81% 
+Visual Studio            2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.19%
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+Windows                  9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +125,7 @@ Windows                  5 mins              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 06:21:40 UTC
+ Last Updated on 20/01/2023 12:32:33 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
