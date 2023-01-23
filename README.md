@@ -72,7 +72,7 @@ const monra = {
 
 > 🏆 301 Contributions in the Year 2023
  > 
-> 📦 19.6 kB Used in GitHub's Storage 
+> 📦 19.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,7 +126,7 @@ Windows                  21 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/monrapps/monrapps/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 06:23:56 UTC
+ Last Updated on 23/01/2023 12:30:40 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
