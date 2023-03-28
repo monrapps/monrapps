@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,7 +104,7 @@ Visual Studio            32 mins             ██████████░�
 ```
 
 
- Last Updated on 27/03/2023 18:19:17 UTC
+ Last Updated on 28/03/2023 01:01:22 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
