@@ -62,7 +62,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,19 +93,19 @@ Sunday                   760 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 44 mins       ██████████████████████░░░   88.13 % 
-MQL                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JavaScript               4 hrs 25 mins       ███████████████████████░░   90.16 % 
+MQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   99.60 % 
-Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  4 hrs 53 mins       █████████████████████████   99.65 % 
+Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
- Last Updated on 31/03/2023 01:00:38 UTC
+ Last Updated on 31/03/2023 06:17:38 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
