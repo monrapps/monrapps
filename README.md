@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,18 +95,18 @@ Sunday                   770 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Docker                   34 mins             ████████████░░░░░░░░░░░░░   48.39 % 
-YAML                     27 mins             ██████████░░░░░░░░░░░░░░░   38.87 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+YAML                     46 mins             █████████░░░░░░░░░░░░░░░░   37.41 % 
+Docker                   40 mins             ████████░░░░░░░░░░░░░░░░░   32.63 % 
+C                        21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2023 00:55:12 UTC
+ Last Updated on 13/05/2023 06:15:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
