@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,14 +95,16 @@ Sunday                   780 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-MQL                      2 hrs 11 mins       █████████████████████████   100.00 % 
+MQL                      3 hrs 35 mins       ████████████████████████░   97.80 % 
+Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2023 01:00:57 UTC
+ Last Updated on 17/06/2023 06:16:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
