@@ -95,17 +95,15 @@ Sunday                   780 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-MQL                      5 hrs 3 mins        █████████████████████████   98.31 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+MQL                      3 hrs 39 mins       █████████████████████████   99.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/06/2023 01:11:03 UTC
+ Last Updated on 24/06/2023 06:16:51 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
