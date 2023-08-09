@@ -64,16 +64,16 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6387 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
-🌆 Daytime                7944 commits        ███████████░░░░░░░░░░░░░░   43.77 % 
-🌃 Evening                3112 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+🌞 Morning                6388 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌆 Daytime                7944 commits        ███████████░░░░░░░░░░░░░░   43.76 % 
+🌃 Evening                3112 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 🌙 Night                  708 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -81,7 +81,7 @@ const monra = {
 ```text
 Monday                   3304 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
 Tuesday                  3385 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Wednesday                3326 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Wednesday                3327 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 Thursday                 3757 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
 Friday                   2487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Saturday                 1112 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
@@ -95,11 +95,11 @@ Sunday                   780 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/08/2023 06:17:06 UTC
+ Last Updated on 09/08/2023 12:24:38 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
