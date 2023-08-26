@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,5 +99,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/08/2023 00:46:53 UTC
+ Last Updated on 26/08/2023 06:15:41 UTC
 <!--END_SECTION:waka-->
