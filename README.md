@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,9 +95,9 @@ Sunday                   778 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  16 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/11/2023 18:17:34 UTC
+ Last Updated on 22/11/2023 00:56:23 UTC
 <!--END_SECTION:waka-->
