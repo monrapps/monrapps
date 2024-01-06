@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,5 +99,5 @@ VS Code                  7 hrs 37 mins       ███████████�
 ```
 
 
- Last Updated on 05/01/2024 18:17:50 UTC
+ Last Updated on 06/01/2024 00:53:29 UTC
 <!--END_SECTION:waka-->
