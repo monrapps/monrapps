@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -147,5 +147,5 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:41:09 UTC
+ Last Updated on 21/10/2024 18:46:24 UTC
 <!--END_SECTION:waka-->
