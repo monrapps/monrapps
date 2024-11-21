@@ -72,7 +72,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 44.4 kB Used in GitHub's Storage 
+> 📦 44.3 kB Used in GitHub's Storage 
  > 
 > 🏆 2,452 Contributions in the Year 2024
  > 
@@ -147,5 +147,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 22:03:02 UTC
+ Last Updated on 21/11/2024 22:08:09 UTC
 <!--END_SECTION:waka-->
