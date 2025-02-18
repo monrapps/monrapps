@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -73,6 +73,8 @@ const monra = {
 **🐱 My GitHub Data** 
 
 > 📦 52.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 506 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,5 +147,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2025 13:28:36 UTC
+ Last Updated on 18/02/2025 18:26:55 UTC
 <!--END_SECTION:waka-->
