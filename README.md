@@ -72,9 +72,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 54.7 kB Used in GitHub's Storage 
- > 
-> 🏆 877 Contributions in the Year 2025
+> 📦 54.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,5 +136,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 12:46:10 UTC
+ Last Updated on 11/03/2025 12:53:06 UTC
 <!--END_SECTION:waka-->
