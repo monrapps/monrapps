@@ -64,7 +64,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,8 +73,6 @@ const monra = {
 **🐱 My GitHub Data** 
 
 > 📦 57.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,153 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +85,7 @@ const monra = {
 ```text
 🌞 Morning                8576 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
 🌆 Daytime                11075 commits       ███████████░░░░░░░░░░░░░░   43.88 % 
-🌃 Evening                3814 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+🌃 Evening                3813 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 🌙 Night                  1776 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -95,7 +93,7 @@ const monra = {
 ```text
 Monday                   4692 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 Tuesday                  4647 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Wednesday                4776 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Wednesday                4775 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 Thursday                 5355 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
 Friday                   3468 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Saturday                 1328 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
@@ -147,5 +145,5 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2025 15:20:43 UTC
+ Last Updated on 03/04/2025 15:27:13 UTC
 <!--END_SECTION:waka-->
