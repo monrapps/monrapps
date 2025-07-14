@@ -78,8 +78,6 @@ const monra = {
 
 > 📦 67.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,755 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -148,5 +146,5 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 06:51:16 UTC
+ Last Updated on 14/07/2025 06:57:01 UTC
 <!--END_SECTION:waka-->
