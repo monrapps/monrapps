@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220">
+  <defs>
+    <linearGradient id="crystal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="30%" stop-color="#3b82f6"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="70%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <text fill="url(#crystal)" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="bold" xml:space="preserve">
+    <tspan x="30" y="30">                         ____</tspan>
+    <tspan x="30" y="50"> /'\_/`\                /\  _`\</tspan>
+    <tspan x="30" y="70">/\      \    ___     ___\ \ \L\ \     __     _____   _____     ____</tspan>
+    <tspan x="30" y="90">\ \ \__\ \  / __`\ /' _ `\ \ ,  /   /'__`\  /\ '__`\/\ '__`\  /',__\</tspan>
+    <tspan x="30" y="110"> \ \ \_/\ \/\ \L\ \/\ \/\ \ \ \\ \ /\ \L\.\_\ \ \L\ \ \ \L\ \/\__, `\</tspan>
+    <tspan x="30" y="130">  \ \_\\ \_\ \____/\ \_\ \_\ \_\ \_\ \__/.\_\\ \ ,__/\ \ ,__/\/\____/</tspan>
+    <tspan x="30" y="150">   \/_/ \/_/\/___/  \/_/\/_/\/_/\/ /\/__/\/_/ \ \ \/  \ \ \/  \/___/</tspan>
+    <tspan x="30" y="170">                                               \ \_\   \ \_\</tspan>
+    <tspan x="30" y="190">                                                \/_/    \/_/</tspan>
+  </text>
+</svg>
