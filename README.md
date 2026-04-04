@@ -2,6 +2,22 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There👋 , I'm MonRá! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://i.giphy.com/9KawrQzIwdAYg.webp" width="50"></h2>
 -->
 
+<div align="center">
+
+```
+                         ____                                        
+ /'\_/`\                /\  _`\                                      
+/\      \    ___     ___\ \ \L\ \     __     _____   _____     ____  
+\ \ \__\ \  / __`\ /' _ `\ \ ,  /   /'__`\  /\ '__`\/\ '__`\  /',__\ 
+ \ \ \_/\ \/\ \L\ \/\ \/\ \ \ \\ \ /\ \L\.\_\ \ \L\ \ \ \L\ \/\__, `\
+  \ \_\\ \_\ \____/\ \_\ \_\ \_\ \_\ \__/.\_\\ \ ,__/\ \ ,__/\/\____/
+   \/_/ \/_/\/___/  \/_/\/_/\/_/\/ /\/__/\/_/ \ \ \/  \ \ \/  \/___/ 
+                                               \ \_\   \ \_\         
+                                                \/_/    \/_/         
+```
+
+</div>
+
 <div>
   </p>
   <div align="center">
