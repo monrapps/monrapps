@@ -18,7 +18,7 @@
   <img src="https://i.giphy.com/MM0Jrc8BHKx3y.webp">
 </div>
   
- <div style="display: inline_block" align="center"><br>
+ <!--div style="display: inline_block" align="center"><br>
   <img align="center" alt="MonRa-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="MonRa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MonRa-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -33,7 +33,7 @@
   <img align="center" alt="MonRa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  
   <img align="center" alt="MonRa-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   
-</div>
+</div-->
 </a>
 
 </br>
