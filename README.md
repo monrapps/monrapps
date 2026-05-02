@@ -90,6 +90,52 @@ const monra = {
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+Markdown                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Other                    3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+
+🔥 Editors: 
+Unknown Editor           10 hrs 41 mins      ██████████████████░░░░░░░   73.07 % 
+Antigravity              3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+
+🐱‍💻 Projects: 
+wlm-infra                10 hrs 45 mins      ██████████████████░░░░░░░   73.49 % 
+provisioning-service     3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+noc                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+
+💻 Operating System: 
+WSL                      14 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -101,5 +147,5 @@ const monra = {
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 03:00:35 UTC
+ Last Updated on 02/05/2026 03:01:03 UTC
 <!--END_SECTION:waka-->
