@@ -72,7 +72,7 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -90,6 +90,56 @@ const monra = {
  > 
 > 🔑 31 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               5 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.87 % 
+Markdown                 4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+JavaScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+
+🔥 Editors: 
+Antigravity              9 hrs 34 mins       ████████████████░░░░░░░░░   62.56 % 
+Unknown Editor           5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+🐱‍💻 Projects: 
+car-scrapper             7 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.69 % 
+Exato                    3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+wlm-infra                2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+fw-opcua-tests           1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+gww-v6i_jiga             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+
+💻 Operating System: 
+WSL                      15 hrs 15 mins      █████████████████████████   99.75 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+
 ```text
 
 ```
@@ -101,5 +151,5 @@ const monra = {
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 03:01:00 UTC
+ Last Updated on 28/05/2026 03:01:33 UTC
 <!--END_SECTION:waka-->
