@@ -90,6 +90,57 @@ const monra = {
  > 
 > 🔑 31 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               11 hrs 1 min        █████████████░░░░░░░░░░░░   53.31 % 
+Markdown                 5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+
+🔥 Editors: 
+Antigravity              16 hrs 10 mins      ███████████████████░░░░░░   75.81 % 
+Unknown Editor           3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Claude Code              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+
+🐱‍💻 Projects: 
+car-scrapper             10 hrs 38 mins      █████████████░░░░░░░░░░░░   51.48 % 
+wlm-infra                7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
+noc                      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+gww-v6i_jiga             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+agent-skills             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
+💻 Operating System: 
+WSL                      20 hrs 36 mins      █████████████████████████   99.64 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+```
+
 ```text
 
 ```
@@ -101,5 +152,5 @@ const monra = {
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 03:30:45 UTC
+ Last Updated on 02/06/2026 03:31:10 UTC
 <!--END_SECTION:waka-->
