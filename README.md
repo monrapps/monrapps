@@ -76,7 +76,7 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -90,14 +90,8 @@ const monra = {
  > 
 > 🔑 31 Private Repositories 
  > 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-C                        20 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Python                   14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Shell                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Dockerfile               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+
 ```
 
 
@@ -107,5 +101,5 @@ Dockerfile               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 03:20:39 UTC
+ Last Updated on 02/06/2026 03:21:07 UTC
 <!--END_SECTION:waka-->
