@@ -80,7 +80,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 252.4 kB Used in GitHub's Storage 
+> 📦 253.0 kB Used in GitHub's Storage 
  > 
 > 🏆 6,500 Contributions in the Year 2026
  > 
@@ -150,5 +150,5 @@ WSL                      7 hrs 55 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 08:00:06 UTC
+ Last Updated on 05/06/2026 08:00:32 UTC
 <!--END_SECTION:waka-->
