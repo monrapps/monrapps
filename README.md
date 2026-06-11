@@ -72,17 +72,17 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C794%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 253.6 kB Used in GitHub's Storage 
+> 📦 253.7 kB Used in GitHub's Storage 
  > 
-> 🏆 6,652 Contributions in the Year 2026
+> 🏆 6,657 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,53 +90,6 @@ const monra = {
  > 
 > 🔑 31 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                25856 commits       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌆 Daytime                49473 commits       ████████████░░░░░░░░░░░░░   48.13 % 
-🌃 Evening                18398 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-🌙 Night                  9054 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   17745 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  20403 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Wednesday                20786 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Thursday                 26825 commits       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Friday                   11788 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 3029 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Sunday                   2205 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               7 hrs 37 mins       ███████████████████░░░░░░   76.68 % 
-Markdown                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-
-🔥 Editors: 
-Antigravity              7 hrs 9 mins        ██████████████████░░░░░░░   72.03 % 
-Claude Code              2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-
-🐱‍💻 Projects: 
-wlm-infra                8 hrs 50 mins       ██████████████████████░░░   88.97 % 
-car-scrapper             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-fw-opcua-tests           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-provisioning-service     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-💻 Operating System: 
-WSL                      9 hrs 56 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -154,5 +107,5 @@ Dockerfile               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 03:21:10 UTC
+ Last Updated on 11/06/2026 03:31:26 UTC
 <!--END_SECTION:waka-->
