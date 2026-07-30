@@ -84,7 +84,7 @@ const monra = {
 
 > 📦 309.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7,714 Contributions in the Year 2026
+> 🏆 7,767 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,11 +140,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-C                        20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Shell                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+TypeScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+C                        20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Shell                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 
@@ -154,5 +154,5 @@ Shell                    10 repos            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 17:04:42 UTC
+ Last Updated on 30/07/2026 17:16:57 UTC
 <!--END_SECTION:waka-->
