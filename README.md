@@ -78,7 +78,7 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -95,21 +95,21 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12006 commits       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-🌆 Daytime                17606 commits       ██████████░░░░░░░░░░░░░░░   38.61 % 
-🌃 Evening                7986 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-🌙 Night                  8001 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌞 Morning                1487 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌆 Daytime                2538 commits        ██████████░░░░░░░░░░░░░░░   39.99 % 
+🌃 Evening                2092 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7757 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Tuesday                  9687 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Wednesday                9169 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Thursday                 9517 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Friday                   6043 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 1809 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Sunday                   1617 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Monday                   785 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Tuesday                  2046 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
+Wednesday                1495 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Thursday                 1191 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Friday                   562 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Saturday                 71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Sunday                   197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 
@@ -154,5 +154,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:00:28 UTC
+ Last Updated on 04/08/2026 20:02:35 UTC
 <!--END_SECTION:waka-->
