@@ -72,9 +72,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C630%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C632%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-216%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -84,7 +84,7 @@ const monra = {
 
 > 📦 330.3 kB Used in GitHub's Storage 
  > 
-> 🏆 8,456 Contributions in the Year 2026
+> 🏆 8,462 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,22 +119,45 @@ Sunday                   1711 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               50 mins             ████████████░░░░░░░░░░░░░   46.55 % 
+YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Docker                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 47 mins        █████████████████████████   99.08 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+loglab                   1 hr 22 mins        ███████████████████░░░░░░   76.15 % 
+bmw-mhd-logs             25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 48 mins (99.57%)
+
+✍️ 3,038 lines written by AI, 1 lines written by hand (99.97% AI-written)
+
+🔤 1,709,773 Input Tokens, 176,107 Output Tokens
+
+💵 $66.56 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 11 AI Prompts
+
+Fable                    3,040 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 80 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,5 +177,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 03:12:55 UTC
+ Last Updated on 14/08/2026 03:23:32 UTC
 <!--END_SECTION:waka-->
