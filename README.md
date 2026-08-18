@@ -92,6 +92,76 @@ const monra = {
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12491 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+🌆 Daytime                18703 commits       ██████████░░░░░░░░░░░░░░░   39.04 % 
+🌃 Evening                8141 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌙 Night                  8567 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   8199 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Tuesday                  9593 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Wednesday                9523 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Thursday                 10139 commits       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Friday                   6295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Saturday                 2006 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Sunday                   2147 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Markdown                 1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Python                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+TypeScript               1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 52 mins       █████████████████████████   99.76 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+
+🐱‍💻 Projects: 
+bmw-mhd-logs             3 hrs 29 mins       █████████████░░░░░░░░░░░░   50.70 % 
+loglab                   3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.77 % 
+mhdlog                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+car-scrapper             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+
+💻 Operating System: 
+Mac                      6 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 52 mins (99.89%)
+
+✍️ 9,383 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 6,884,093 Input Tokens, 792,585 Output Tokens
+
+💵 $233.89 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 37 AI Prompts
+
+Opus                     4,910 lines         █████████████░░░░░░░░░░░░   52.30 % 
+Fable                    4,479 lines         ████████████░░░░░░░░░░░░░   47.70 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 1,672 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -109,5 +179,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 03:21:20 UTC
+ Last Updated on 18/08/2026 03:32:38 UTC
 <!--END_SECTION:waka-->
