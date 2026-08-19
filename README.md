@@ -84,7 +84,7 @@ const monra = {
 
 > 📦 340.1 kB Used in GitHub's Storage 
  > 
-> 🏆 8,671 Contributions in the Year 2026
+> 🏆 8,675 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,45 +119,45 @@ Sunday                   2388 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Python                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-TypeScript               1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+TypeScript               1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Markdown                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Python                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+YAML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 52 mins       █████████████████████████   99.76 % 
-Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Claude Code              4 hrs 43 mins       █████████████████████████   99.65 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-bmw-mhd-logs             3 hrs 29 mins       █████████████░░░░░░░░░░░░   50.70 % 
-loglab                   3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.77 % 
-mhdlog                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-car-scrapper             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+loglab                   3 hrs 2 mins        ████████████████░░░░░░░░░   64.24 % 
+bmw-mhd-logs             1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+mhdlog                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+car-scrapper             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Mac                      6 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 52 mins (99.89%)
+⏱ AI Coding Time: 4 hrs 43 mins (99.84%)
 
-✍️ 9,383 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 8,837 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 6,884,093 Input Tokens, 792,585 Output Tokens
+🔤 3,931,289 Input Tokens, 568,126 Output Tokens
 
-💵 $233.89 Estimated AI Cost This Week
+💵 $165.44 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 37 AI Prompts
+🧠 2 AI Sessions, 25 AI Prompts
 
-Opus                     4,910 lines         █████████████░░░░░░░░░░░░   52.30 % 
-Fable                    4,479 lines         ████████████░░░░░░░░░░░░░   47.70 % 
+Fable                    4,479 lines         █████████████░░░░░░░░░░░░   50.65 % 
+Opus                     4,364 lines         ████████████░░░░░░░░░░░░░   49.35 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,672 characters per prompt
+📄 Detailed Prompter — average 822 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -179,5 +179,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 03:13:10 UTC
+ Last Updated on 19/08/2026 03:24:34 UTC
 <!--END_SECTION:waka-->
