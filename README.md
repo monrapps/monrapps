@@ -119,47 +119,45 @@ Sunday                   2388 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Markdown                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Python                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-YAML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+TypeScript               50 mins             ████████████░░░░░░░░░░░░░   46.55 % 
+YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Docker                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 43 mins       █████████████████████████   99.65 % 
-Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude Code              1 hr 47 mins        █████████████████████████   99.08 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-loglab                   3 hrs 2 mins        ████████████████░░░░░░░░░   64.24 % 
-bmw-mhd-logs             1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-mhdlog                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-car-scrapper             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+loglab                   1 hr 22 mins        ███████████████████░░░░░░   76.15 % 
+bmw-mhd-logs             25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 💻 Operating System: 
-Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 43 mins (99.84%)
+⏱ AI Coding Time: 1 hr 48 mins (99.57%)
 
-✍️ 8,837 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 3,038 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 3,931,289 Input Tokens, 568,126 Output Tokens
+🔤 1,709,773 Input Tokens, 176,107 Output Tokens
 
-💵 $165.44 Estimated AI Cost This Week
+💵 $66.56 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 25 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-Fable                    4,479 lines         █████████████░░░░░░░░░░░░   50.65 % 
-Opus                     4,364 lines         ████████████░░░░░░░░░░░░░   49.35 % 
+Fable                    3,040 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 822 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 80 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +177,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 03:14:48 UTC
+ Last Updated on 20/08/2026 03:26:34 UTC
 <!--END_SECTION:waka-->
