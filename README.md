@@ -119,45 +119,22 @@ Sunday                   1760 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               50 mins             ████████████░░░░░░░░░░░░░   46.55 % 
-YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Docker                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 47 mins        █████████████████████████   99.08 % 
-Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-loglab                   1 hr 22 mins        ███████████████████░░░░░░   76.15 % 
-bmw-mhd-logs             25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (99.57%)
-
-✍️ 3,038 lines written by AI, 1 lines written by hand (99.97% AI-written)
-
-🔤 1,709,773 Input Tokens, 176,107 Output Tokens
-
-💵 $66.56 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 11 AI Prompts
-
-Fable                    3,040 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -177,5 +154,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 03:20:49 UTC
+ Last Updated on 21/08/2026 03:32:09 UTC
 <!--END_SECTION:waka-->
