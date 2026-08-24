@@ -140,11 +140,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Python                   16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Shell                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TypeScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+C                        21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Python                   16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 
 
@@ -154,5 +154,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 15:48:29 UTC
+ Last Updated on 24/08/2026 16:00:22 UTC
 <!--END_SECTION:waka-->
