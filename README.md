@@ -72,9 +72,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -92,71 +92,6 @@ const monra = {
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12801 commits       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-🌆 Daytime                19103 commits       ██████████░░░░░░░░░░░░░░░   39.02 % 
-🌃 Evening                8362 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌙 Night                  8686 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   8388 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Tuesday                  9976 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Wednesday                9723 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Thursday                 10301 commits       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Friday                   6657 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Saturday                 1989 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Sunday                   1918 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Other                    7 hrs 4 mins        █████████████████████░░░░   85.83 % 
-TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-
-🔥 Editors: 
-Claude Code              8 hrs 14 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-firmware_nb_iot          4 hrs 30 mins       ██████████████░░░░░░░░░░░   54.69 % 
-wlm-infra                3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
-vpn-infra                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-
-💻 Operating System: 
-WSL                      8 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 14 mins (100.0%)
-
-✍️ 26 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 10,157,675 Input Tokens, 167,115 Output Tokens
-
-💵 $125.82 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 24 AI Prompts
-
-Opus                     26 lines            █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,826 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -174,5 +109,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:17:50 UTC
+ Last Updated on 04/09/2026 03:28:11 UTC
 <!--END_SECTION:waka-->
