@@ -92,6 +92,72 @@ const monra = {
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12801 commits       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+🌆 Daytime                19103 commits       ██████████░░░░░░░░░░░░░░░   39.02 % 
+🌃 Evening                8362 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+🌙 Night                  8687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   8388 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Tuesday                  9976 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Wednesday                9723 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Thursday                 10301 commits       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Friday                   6658 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 1989 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Sunday                   1918 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    12 hrs 29 mins      ██████████████████░░░░░░░   72.41 % 
+TypeScript               4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+
+🔥 Editors: 
+Claude Code              17 hrs 14 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+wlm-infra                11 hrs 17 mins      ████████████████░░░░░░░░░   65.46 % 
+firmware_nb_iot          5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+vpn-infra                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+
+💻 Operating System: 
+WSL                      17 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 14 mins (100.0%)
+
+✍️ 293 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 14,012,613 Input Tokens, 284,623 Output Tokens
+
+💵 $187.18 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 41 AI Prompts
+
+Opus                     293 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,108 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -109,5 +175,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:28:11 UTC
+ Last Updated on 04/09/2026 03:39:02 UTC
 <!--END_SECTION:waka-->
