@@ -72,9 +72,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C643%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C643%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-254%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -119,47 +119,47 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    17 hrs 24 mins      ████████████████░░░░░░░░░   63.04 % 
-C++                      3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-TypeScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    17 hrs 4 mins       ███████████████████░░░░░░   74.97 % 
+C++                      3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 24 mins      ███████████████████████░░   92.05 % 
-Codex CLI                2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Claude Code              20 hrs 34 mins      ███████████████████████░░   90.36 % 
+Codex CLI                2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          19 hrs 43 mins      ██████████████████░░░░░░░   71.47 % 
-wlm-infra                7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-vpn-infra                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+firmware_nb_iot          22 hrs 17 mins      ████████████████████████░   97.89 % 
+slc-nb-manager           26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+nlm-pro-backend          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-WSL                      27 hrs 36 mins      █████████████████████████   100.00 % 
+WSL                      22 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 36 mins (100.0%)
+⏱ AI Coding Time: 22 hrs 45 mins (100.0%)
 
-✍️ 3,584 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,317 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,724,894 Input Tokens, 1,056,902 Output Tokens
+🔤 12,220,237 Input Tokens, 1,180,792 Output Tokens
 
-💵 $297.98 Estimated AI Cost This Week
+💵 $271.70 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 83 AI Prompts
+🧠 22 AI Sessions, 78 AI Prompts
 
-GPT                      2,977 lines         █████████████████████░░░░   83.06 % 
-Fable                    340 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Opus                     267 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+GPT                      2,977 lines         ██████████████████████░░░   89.75 % 
+Fable                    340 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,252 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,987 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -174,5 +174,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 03:00:27 UTC
+ Last Updated on 11/09/2026 03:01:01 UTC
 <!--END_SECTION:waka-->
