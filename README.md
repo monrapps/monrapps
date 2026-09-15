@@ -78,7 +78,7 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -95,19 +95,19 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18694 commits       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-🌆 Daytime                30963 commits       ███████████░░░░░░░░░░░░░░   42.03 % 
+🌞 Morning                18689 commits       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+🌆 Daytime                30957 commits       ███████████░░░░░░░░░░░░░░   42.03 % 
 🌃 Evening                13754 commits       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 🌙 Night                  10261 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   12151 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Monday                   12148 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 Tuesday                  14755 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
 Wednesday                14630 commits       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Thursday                 16855 commits       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Friday                   9625 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 16847 commits       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Friday                   9625 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 Saturday                 2833 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Sunday                   2823 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
@@ -180,5 +180,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 13:31:12 UTC
+ Last Updated on 15/09/2026 13:46:56 UTC
 <!--END_SECTION:waka-->
