@@ -76,13 +76,13 @@ const monra = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 339.4 kB Used in GitHub's Storage 
+> 📦 332.7 kB Used in GitHub's Storage 
  > 
 > 🏆 9,807 Contributions in the Year 2026
  > 
@@ -181,5 +181,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 08:44:32 UTC
+ Last Updated on 20/09/2026 09:32:12 UTC
 <!--END_SECTION:waka-->
