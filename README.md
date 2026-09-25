@@ -72,13 +72,13 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-298%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -95,21 +95,21 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14864 commits       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-🌆 Daytime                20245 commits       █████████░░░░░░░░░░░░░░░░   36.90 % 
-🌃 Evening                10141 commits       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-🌙 Night                  9621 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   9454 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Tuesday                  10945 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Wednesday                10275 commits       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Thursday                 10794 commits       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Friday                   7318 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 2838 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Sunday                   3247 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -119,57 +119,51 @@ Sunday                   3247 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    15 hrs 3 mins       ████████████░░░░░░░░░░░░░   46.66 % 
-TypeScript               8 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-Markdown                 3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Text                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-C++                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Other                    15 hrs 10 mins      ██████████████░░░░░░░░░░░   54.91 % 
+TypeScript               7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+JavaScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 16 mins      █████████████████████████   100.00 % 
+Claude Code              27 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wlm-infra                22 hrs 6 mins       █████████████████░░░░░░░░   68.52 % 
-firmware_nb_iot          9 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
-slc-6-ota-updater        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-COMM_MANAGER             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-monra                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+wlm-infra                23 hrs 26 mins      █████████████████████░░░░   84.81 % 
+firmware_nb_iot          3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+slc-6-ota-updater        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+COMM_MANAGER             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+monra                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-WSL                      32 hrs 16 mins      █████████████████████████   100.00 % 
+WSL                      27 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 27 hrs 38 mins (100.0%)
 
-✍️ 6,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,987 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,316,590 Input Tokens, 1,479,325 Output Tokens
+🔤 8,873,173 Input Tokens, 1,239,990 Output Tokens
 
-💵 $334.37 Estimated AI Cost This Week
+💵 $306.33 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 77 AI Prompts
+🧠 18 AI Sessions, 67 AI Prompts
 
-Opus                     7,428 lines         █████████████████████████   100.00 % 
+Opus                     6,569 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,015 characters per prompt
+📚 Verbose Prompter — average 1,895 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-C                        22 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Python                   17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+
 ```
 
 
@@ -179,5 +173,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 03:43:14 UTC
+ Last Updated on 25/09/2026 03:43:54 UTC
 <!--END_SECTION:waka-->
