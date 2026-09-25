@@ -162,8 +162,14 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               21 repos            ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+C++                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 ```
 
 
@@ -173,5 +179,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:43:35 UTC
+ Last Updated on 25/09/2026 21:44:14 UTC
 <!--END_SECTION:waka-->
