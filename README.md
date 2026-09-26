@@ -72,13 +72,13 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.14%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -92,76 +92,6 @@ const monra = {
  > 
 > 🔑 35 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                19654 commits       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌆 Daytime                31072 commits       ██████████░░░░░░░░░░░░░░░   40.52 % 
-🌃 Evening                15187 commits       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌙 Night                  10762 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   12689 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Tuesday                  14740 commits       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Wednesday                14815 commits       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Thursday                 16634 commits       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Friday                   10166 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Saturday                 3923 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Sunday                   3708 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Other                    15 hrs 10 mins      ██████████████░░░░░░░░░░░   54.91 % 
-TypeScript               7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-JavaScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-
-🔥 Editors: 
-Claude Code              27 hrs 38 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-wlm-infra                23 hrs 26 mins      █████████████████████░░░░   84.81 % 
-firmware_nb_iot          3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-slc-6-ota-updater        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-COMM_MANAGER             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-monra                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-💻 Operating System: 
-WSL                      27 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 27 hrs 38 mins (100.0%)
-
-✍️ 5,987 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,873,173 Input Tokens, 1,239,990 Output Tokens
-
-💵 $306.33 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 67 AI Prompts
-
-Opus                     6,569 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,895 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -179,5 +109,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 03:33:08 UTC
+ Last Updated on 26/09/2026 03:41:46 UTC
 <!--END_SECTION:waka-->
