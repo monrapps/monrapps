@@ -78,7 +78,7 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -92,14 +92,78 @@ const monra = {
  > 
 > 🔑 35 Private Repositories 
  > 
-**I Mostly Code in TypeScript** 
+**I'm an Early 🐤** 
 
 ```text
-TypeScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-C                        22 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Python                   17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    12 hrs 44 mins      █████████████░░░░░░░░░░░░   51.08 % 
+TypeScript               6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+
+🔥 Editors: 
+Claude Code              24 hrs 56 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+wlm-infra                21 hrs 6 mins       █████████████████████░░░░   84.65 % 
+firmware_nb_iot          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+gww-v6i                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+slc-6-ota-updater        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+monra                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+💻 Operating System: 
+WSL                      24 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 24 hrs 56 mins (100.0%)
+
+✍️ 11,348 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 23,777,538 Input Tokens, 2,445,185 Output Tokens
+
+💵 $563.70 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 98 AI Prompts
+
+Opus                     12,296 lines        █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,320 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+```text
+
 ```
 
 
@@ -109,5 +173,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 03:41:46 UTC
+ Last Updated on 26/09/2026 03:42:24 UTC
 <!--END_SECTION:waka-->
