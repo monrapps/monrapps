@@ -72,9 +72,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -119,46 +119,46 @@ Sunday                   3708 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    12 hrs 44 mins      █████████████░░░░░░░░░░░░   51.08 % 
-TypeScript               6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    11 hrs 12 mins      ██████████████░░░░░░░░░░░   57.90 % 
+TypeScript               3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Markdown                 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 56 mins      █████████████████████████   100.00 % 
+Claude Code              19 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wlm-infra                21 hrs 6 mins       █████████████████████░░░░   84.65 % 
-firmware_nb_iot          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-gww-v6i                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-slc-6-ota-updater        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-monra                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+wlm-infra                15 hrs 27 mins      ████████████████████░░░░░   79.92 % 
+firmware_nb_iot          2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+gww-v6i                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+slc-6-ota-updater        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+gridsafe_rpl_controller  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-WSL                      24 hrs 56 mins      █████████████████████████   100.00 % 
+WSL                      19 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 19 hrs 20 mins (100.0%)
 
-✍️ 11,348 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,439 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,777,538 Input Tokens, 2,445,185 Output Tokens
+🔤 23,612,516 Input Tokens, 2,047,673 Output Tokens
 
-💵 $563.70 Estimated AI Cost This Week
+💵 $455.59 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 98 AI Prompts
+🧠 16 AI Sessions, 84 AI Prompts
 
-Opus                     12,296 lines        █████████████████████████   100.00 % 
+Opus                     7,388 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,320 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,205 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -179,5 +179,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 03:19:30 UTC
+ Last Updated on 27/09/2026 03:54:49 UTC
 <!--END_SECTION:waka-->
