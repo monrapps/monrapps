@@ -163,14 +163,8 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+
 ```
 
 
@@ -180,5 +174,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:58:34 UTC
+ Last Updated on 01/10/2026 22:59:06 UTC
 <!--END_SECTION:waka-->
