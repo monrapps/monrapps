@@ -166,11 +166,11 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-C                        13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
@@ -180,5 +180,5 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:57:54 UTC
+ Last Updated on 01/10/2026 22:58:34 UTC
 <!--END_SECTION:waka-->
