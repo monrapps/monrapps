@@ -72,9 +72,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C682%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C683%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -119,48 +119,47 @@ Sunday                   3888 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    10 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
-Markdown                 6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Python                   3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-TypeScript               2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Text                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    8 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
+Markdown                 4 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Python                   3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Text                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 35 mins      ████████████████████████░   95.79 % 
-Codex Vscode             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Claude Code              18 hrs 33 mins      ████████████████████████░   94.71 % 
+Codex Vscode             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🐱‍💻 Projects: 
-nouvenn                  7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-firmware_nb_iot          4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-wlm-infra                2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-gww-v6i                  2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-tests                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+nouvenn                  6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.59 % 
+firmware_nb_iot          5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+tests                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+slc-nb-manager           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+monra                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-WSL                      24 hrs 37 mins      █████████████████████████   100.00 % 
+WSL                      19 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 19 hrs 35 mins (100.0%)
 
-✍️ 11,717 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,767 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,561,651 Input Tokens, 5,380,316 Output Tokens
+🔤 30,567,918 Input Tokens, 5,042,813 Output Tokens
 
-💵 $696.46 Estimated AI Cost This Week
+💵 $663.45 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 141 AI Prompts
+🧠 31 AI Sessions, 123 AI Prompts
 
-Opus                     9,426 lines         ███████████████████░░░░░░   76.44 % 
-GPT                      2,905 lines         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Opus                     7,486 lines         ██████████████████░░░░░░░   72.04 % 
+GPT                      2,905 lines         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,946 characters per prompt
+📚 Verbose Prompter — average 5,636 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -182,5 +181,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 04:55:29 UTC
+ Last Updated on 06/10/2026 05:42:22 UTC
 <!--END_SECTION:waka-->
