@@ -84,7 +84,7 @@ const monra = {
 
 > 📦 346.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 10,400 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -164,8 +164,14 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+C                        13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -175,5 +181,5 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:34:06 UTC
+ Last Updated on 07/10/2026 23:35:01 UTC
 <!--END_SECTION:waka-->
