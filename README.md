@@ -72,9 +72,9 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -119,47 +119,47 @@ Sunday                   3895 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    10 hrs 9 mins       █████████████░░░░░░░░░░░░   53.44 % 
-Python                   2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Markdown                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Other                    13 hrs 2 mins       ██████████████░░░░░░░░░░░   54.37 % 
+Markdown                 3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+TypeScript               3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Python                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Text                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 58 mins      ████████████████████████░   94.55 % 
-Codex Vscode             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Claude Code              22 hrs 56 mins      ████████████████████████░   95.68 % 
+Codex Vscode             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-nouvenn                  4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-wlm-infra                3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-gww-v6i                  1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-monra                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+firmware_nb_iot          7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+nouvenn                  6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+wlm-infra                4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+gww-v6i                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+monra                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 💻 Operating System: 
-WSL                      19 hrs              █████████████████████████   100.00 % 
+WSL                      23 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs (100.0%)
+⏱ AI Coding Time: 23 hrs 59 mins (100.0%)
 
-✍️ 6,243 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,581 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 29,351,891 Input Tokens, 4,900,147 Output Tokens
+🔤 33,841,225 Input Tokens, 6,126,128 Output Tokens
 
-💵 $666.42 Estimated AI Cost This Week
+💵 $761.85 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 117 AI Prompts
+🧠 33 AI Sessions, 129 AI Prompts
 
-Opus                     3,981 lines         ██████████████░░░░░░░░░░░   57.81 % 
-GPT                      2,905 lines         ███████████░░░░░░░░░░░░░░   42.19 % 
+Opus                     4,319 lines         ███████████████░░░░░░░░░░   59.79 % 
+GPT                      2,905 lines         ██████████░░░░░░░░░░░░░░░   40.21 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,848 characters per prompt
+📚 Verbose Prompter — average 3,707 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -181,5 +181,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 05:10:38 UTC
+ Last Updated on 08/10/2026 06:07:24 UTC
 <!--END_SECTION:waka-->
