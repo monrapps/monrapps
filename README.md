@@ -164,8 +164,14 @@ GPT                      0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
@@ -175,5 +181,5 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 13:35:15 UTC
+ Last Updated on 09/10/2026 13:36:05 UTC
 <!--END_SECTION:waka-->
