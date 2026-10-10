@@ -6,10 +6,16 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
+    # The action pushes README.md with GH_TOKEN (a PAT), and PAT pushes trigger workflows,
+    # so a plain `push:` restarts this run after every update, forever. Only rerun on workflow edits.
+    paths:
+      - .github/workflows/codingStats.yml
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
@@ -17,9 +23,24 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE : "True"
+
+      # The action has no flag for the insights inside "AI Coding This Week", so strip them
+      # afterwards. Pushes made with GITHUB_TOKEN don't trigger workflows, so this can't loop.
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Hide AI Coding Insights
+        run: |
+          perl -0pi -e 's/\n+🔎 AI Coding Insights:\n(?:.*\n)*?(?=```)/\n/' README.md
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Hide AI Coding Insights"
+          git push
