@@ -84,7 +84,7 @@ const monra = {
 
 > 📦 339.0 kB Used in GitHub's Storage 
  > 
-> 🏆 10,422 Contributions in the Year 2026
+> 🏆 10,423 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +97,7 @@ const monra = {
 ```text
 🌞 Morning                21719 commits       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 🌆 Daytime                35516 commits       ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌃 Evening                17545 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+🌃 Evening                17546 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
 🌙 Night                  11437 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -107,7 +107,7 @@ Monday                   14261 commits       ████░░░░░░░�
 Tuesday                  16495 commits       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 Wednesday                16613 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 Thursday                 19142 commits       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Friday                   11432 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Friday                   11433 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 Saturday                 4378 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 Sunday                   3896 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
@@ -124,10 +124,6 @@ Markdown                 4 hrs 40 mins       █████░░░░░░�
 TypeScript               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 Python                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-
-🔥 Editors: 
-Claude Code              21 hrs 42 mins      █████████████████████████   99.75 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
 firmware_nb_iot          7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
@@ -176,10 +172,6 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/monrapps/monrapps/master/assets/bar_graph.png)
-
-
- Last Updated on 10/10/2026 02:40:09 UTC
+ Last Updated on 10/10/2026 04:02:31 UTC
 <!--END_SECTION:waka-->
