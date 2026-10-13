@@ -82,9 +82,9 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 337.6 kB Used in GitHub's Storage 
+> 📦 338.8 kB Used in GitHub's Storage 
  > 
-> 🏆 10,474 Contributions in the Year 2026
+> 🏆 10,480 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,15 +96,15 @@ const monra = {
 
 ```text
 🌞 Morning                21748 commits       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-🌆 Daytime                35593 commits       ██████████░░░░░░░░░░░░░░░   41.21 % 
-🌃 Evening                17565 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-🌙 Night                  11469 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+🌆 Daytime                35593 commits       ██████████░░░░░░░░░░░░░░░   41.20 % 
+🌃 Evening                17565 commits       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌙 Night                  11475 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   14305 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Tuesday                  16519 commits       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Tuesday                  16525 commits       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 Wednesday                16622 commits       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
 Thursday                 19167 commits       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 Friday                   11449 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
@@ -119,39 +119,45 @@ Sunday                   3916 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    10 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   38.07 % 
-Markdown                 8 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
-TypeScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JavaScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-C++                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Other                    10 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.47 % 
+Markdown                 8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+C++                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+TypeScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          13 hrs 27 mins      ████████████░░░░░░░░░░░░░   48.01 % 
-wlm-infra                4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-nouvenn                  2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-gww-v6i                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Terminal                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+firmware_nb_iot          14 hrs 50 mins      █████████████░░░░░░░░░░░░   50.37 % 
+wlm-infra                4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Terminal                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+gww-v6i                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+nouvenn                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-WSL                      26 hrs 59 mins      ████████████████████████░   96.31 % 
-Mac                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+WSL                      28 hrs 25 mins      ████████████████████████░   96.49 % 
+Mac                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 9 mins (93.33%)
+⏱ AI Coding Time: 26 hrs 58 mins (91.59%)
 
-✍️ 6,954 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,279 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 42,756,232 Input Tokens, 8,389,212 Output Tokens
+🔤 47,298,760 Input Tokens, 9,555,203 Output Tokens
 
-💵 $679.85 Estimated AI Cost This Week
+💵 $801.45 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 105 AI Prompts
+🧠 26 AI Sessions, 101 AI Prompts
 
-Opus                     6,971 lines         █████████████████████████   100.00 % 
+Opus                     10,319 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,156 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,5 +173,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 01:18:12 UTC
+ Last Updated on 13/10/2026 14:49:16 UTC
 <!--END_SECTION:waka-->
