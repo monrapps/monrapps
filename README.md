@@ -78,7 +78,7 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -95,18 +95,18 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21745 commits       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌆 Daytime                35589 commits       ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌞 Morning                21750 commits       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+🌆 Daytime                35595 commits       ██████████░░░░░░░░░░░░░░░   41.18 % 
 🌃 Evening                17582 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 🌙 Night                  11506 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14306 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Monday                   14309 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 Tuesday                  16540 commits       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 Wednesday                16655 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Thursday                 19159 commits       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Thursday                 19167 commits       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
 Friday                   11449 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 Saturday                 4397 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 Sunday                   3916 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
@@ -153,6 +153,12 @@ Mac                      1 hr 16 mins        █░░░░░░░░░░�
 Opus                     10,386 lines        █████████████████████░░░░   84.27 % 
 GPT                      1,939 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,000 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -168,5 +174,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 17:53:43 UTC
+ Last Updated on 14/10/2026 22:28:06 UTC
 <!--END_SECTION:waka-->
