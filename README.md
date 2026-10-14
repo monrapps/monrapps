@@ -72,19 +72,19 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 339.3 kB Used in GitHub's Storage 
+> 📦 341.9 kB Used in GitHub's Storage 
  > 
-> 🏆 10,489 Contributions in the Year 2026
+> 🏆 10,522 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,18 +95,18 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21748 commits       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌆 Daytime                35595 commits       ██████████░░░░░░░░░░░░░░░   41.20 % 
-🌃 Evening                17578 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-🌙 Night                  11475 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+🌞 Morning                21750 commits       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+🌆 Daytime                35595 commits       ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌃 Evening                17578 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌙 Night                  11506 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14305 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Monday                   14305 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 Tuesday                  16540 commits       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Wednesday                16622 commits       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Thursday                 19167 commits       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Wednesday                16655 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Thursday                 19167 commits       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
 Friday                   11449 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 Saturday                 4397 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 Sunday                   3916 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
@@ -119,39 +119,46 @@ Sunday                   3916 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    10 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.47 % 
-Markdown                 8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
-C++                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-TypeScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Other                    13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.37 % 
+Markdown                 10 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+C++                      5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+JavaScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          14 hrs 50 mins      █████████████░░░░░░░░░░░░   50.37 % 
-wlm-infra                4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Terminal                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-gww-v6i                  2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-nouvenn                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+firmware_nb_iot          18 hrs 35 mins      █████████████░░░░░░░░░░░░   53.21 % 
+Terminal                 7 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+nouvenn                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+bash-wakatime            1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+gww-v6i                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-WSL                      28 hrs 25 mins      ████████████████████████░   96.49 % 
-Mac                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+WSL                      33 hrs 39 mins      ████████████████████████░   96.36 % 
+Mac                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 58 mins (91.59%)
+⏱ AI Coding Time: 28 hrs 36 mins (81.87%)
 
-✍️ 10,279 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,283 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 47,298,760 Input Tokens, 9,555,203 Output Tokens
+🔤 56,088,956 Input Tokens, 10,655,615 Output Tokens
 
-💵 $801.45 Estimated AI Cost This Week
+💵 $972.28 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 101 AI Prompts
+🧠 27 AI Sessions, 123 AI Prompts
 
-Opus                     10,319 lines        █████████████████████████   100.00 % 
+Opus                     10,386 lines        █████████████████████░░░░   84.27 % 
+GPT                      1,939 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,000 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,5 +174,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 04:34:58 UTC
+ Last Updated on 14/10/2026 12:23:05 UTC
 <!--END_SECTION:waka-->
