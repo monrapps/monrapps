@@ -154,6 +154,12 @@ GPT                      70,799 lines        ███████████�
 Opus                     13,977 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,648 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,5 +175,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 17:29:41 UTC
+ Last Updated on 16/10/2026 21:46:28 UTC
 <!--END_SECTION:waka-->
