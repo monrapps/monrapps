@@ -72,19 +72,19 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C712%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C728%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-388%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 343.4 kB Used in GitHub's Storage 
  > 
-> 🏆 10,558 Contributions in the Year 2026
+> 🏆 10,579 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,21 +95,21 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21825 commits       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌆 Daytime                35879 commits       ██████████░░░░░░░░░░░░░░░   41.26 % 
-🌃 Evening                17726 commits       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-🌙 Night                  11531 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+🌞 Morning                21881 commits       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+🌆 Daytime                36054 commits       ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌃 Evening                17811 commits       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+🌙 Night                  11550 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14366 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Tuesday                  16603 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Wednesday                16758 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Thursday                 19349 commits       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Friday                   11497 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 4423 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Sunday                   3965 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Monday                   14398 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  16654 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Wednesday                16814 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 19452 commits       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Friday                   11555 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 4436 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Sunday                   3987 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
@@ -154,6 +154,12 @@ GPT                      70,799 lines        ███████████�
 Opus                     13,977 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,648 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,5 +175,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 11:55:41 UTC
+ Last Updated on 16/10/2026 17:29:41 UTC
 <!--END_SECTION:waka-->
