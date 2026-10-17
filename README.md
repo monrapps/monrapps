@@ -119,41 +119,48 @@ Sunday                   3987 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 17 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
-Other                    16 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.47 % 
-C++                      7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Python                   6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other                    21 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   34.62 % 
+Markdown                 20 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   32.81 % 
+C++                      10 hrs 19 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Python                   6 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Rust                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          20 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.35 % 
-monrainer                13 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Terminal                 12 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-rigtune                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-bash-wakatime            1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+firmware_nb_iot          26 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.74 % 
+monrainer                13 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Terminal                 13 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+gww-v6i                  2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+gww-v6i_jiga             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-WSL                      50 hrs 48 mins      ████████████████████████░   94.82 % 
-Mac                      2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+WSL                      60 hrs 19 mins      ████████████████████████░   95.04 % 
+Mac                      3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 52 mins (80.04%)
+⏱ AI Coding Time: 52 hrs 9 mins (82.17%)
 
-✍️ 84,655 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 85,320 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 88,990,678 Input Tokens, 17,934,731 Output Tokens
+🔤 104,070,556 Input Tokens, 20,701,403 Output Tokens
 
-💵 $2553.48 Estimated AI Cost This Week
+💵 $2845.38 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 175 AI Prompts
+🧠 51 AI Sessions, 185 AI Prompts
 
-GPT                      70,799 lines        █████████████████████░░░░   83.51 % 
-Opus                     13,977 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+GPT                      70,799 lines        █████████████████████░░░░   82.84 % 
+Opus                     14,669 lines        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,952 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,5 +176,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 04:00:16 UTC
+ Last Updated on 17/10/2026 11:20:03 UTC
 <!--END_SECTION:waka-->
