@@ -119,42 +119,48 @@ Sunday                   3987 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    21 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   34.62 % 
-Markdown                 20 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   32.81 % 
-C++                      10 hrs 19 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Python                   6 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Rust                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Other                    22 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.71 % 
+Markdown                 17 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+C++                      8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Python                   6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Rust                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          26 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   41.74 % 
-monrainer                13 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Terminal                 13 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-gww-v6i                  2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-gww-v6i_jiga             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+firmware_nb_iot          22 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+Terminal                 14 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+monrainer                13 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+gww-v6i                  2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+gww-v6i_jiga             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-WSL                      60 hrs 19 mins      ████████████████████████░   95.04 % 
-Mac                      3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+WSL                      55 hrs 12 mins      ███████████████████████░░   93.00 % 
+Mac                      4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 9 mins (82.17%)
+⏱ AI Coding Time: 46 hrs 58 mins (79.15%)
 
-✍️ 85,320 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 82,424 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 104,070,556 Input Tokens, 20,701,403 Output Tokens
+🔤 95,317,227 Input Tokens, 18,196,538 Output Tokens
 
-💵 $2845.38 Estimated AI Cost This Week
+💵 $2609.09 Estimated AI Cost This Week
 
 🧠 51 AI Sessions, 185 AI Prompts
 
-GPT                      70,799 lines        █████████████████████░░░░   82.84 % 
-Opus                     14,669 lines        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+GPT                      70,880 lines        █████████████████████░░░░   85.88 % 
+Opus                     11,650 lines        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,898 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,5 +176,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 03:52:18 UTC
+ Last Updated on 18/10/2026 11:24:27 UTC
 <!--END_SECTION:waka-->
