@@ -78,7 +78,7 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -95,20 +95,20 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21885 commits       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-🌆 Daytime                36054 commits       ██████████░░░░░░░░░░░░░░░   41.28 % 
-🌃 Evening                17843 commits       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+🌞 Morning                21877 commits       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+🌆 Daytime                36032 commits       ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌃 Evening                17842 commits       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
 🌙 Night                  11561 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14402 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Tuesday                  16678 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Wednesday                16825 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Thursday                 19453 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Friday                   11557 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Saturday                 4440 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Monday                   14398 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  16672 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Wednesday                16819 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 19441 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Friday                   11557 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 4437 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 Sunday                   3988 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
@@ -119,42 +119,48 @@ Sunday                   3988 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    22 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.71 % 
-Markdown                 17 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-C++                      8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Python                   6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Rust                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Other                    21 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   36.42 % 
+Markdown                 17 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   30.11 % 
+C++                      8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Python                   6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Rust                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🐱‍💻 Projects: 
-firmware_nb_iot          22 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-Terminal                 14 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-monrainer                13 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-gww-v6i                  2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-gww-v6i_jiga             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+firmware_nb_iot          22 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+monrainer                13 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Terminal                 13 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+gww-v6i                  2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+gww-v6i_jiga             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 💻 Operating System: 
-WSL                      55 hrs 12 mins      ███████████████████████░░   93.00 % 
-Mac                      4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+WSL                      54 hrs 16 mins      ███████████████████████░░   93.74 % 
+Mac                      3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 58 mins (79.15%)
+⏱ AI Coding Time: 46 hrs 16 mins (79.94%)
 
-✍️ 82,424 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 81,459 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 95,317,227 Input Tokens, 18,196,538 Output Tokens
+🔤 94,604,512 Input Tokens, 17,954,211 Output Tokens
 
-💵 $2609.09 Estimated AI Cost This Week
+💵 $2584.95 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 185 AI Prompts
+🧠 50 AI Sessions, 172 AI Prompts
 
-GPT                      70,880 lines        █████████████████████░░░░   85.88 % 
-Opus                     11,650 lines        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+GPT                      70,880 lines        ██████████████████████░░░   86.90 % 
+Opus                     10,684 lines        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,110 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,5 +176,5 @@ HTML                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 04:15:39 UTC
+ Last Updated on 19/10/2026 13:24:48 UTC
 <!--END_SECTION:waka-->
