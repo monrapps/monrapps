@@ -95,20 +95,20 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22142 commits       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌆 Daytime                36748 commits       ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌃 Evening                18276 commits       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌙 Night                  11679 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌞 Morning                22150 commits       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌆 Daytime                36770 commits       ██████████░░░░░░░░░░░░░░░   41.37 % 
+🌃 Evening                18277 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+🌙 Night                  11679 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14604 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Tuesday                  16917 commits       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Wednesday                17132 commits       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Thursday                 19886 commits       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Monday                   14608 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Tuesday                  16923 commits       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Wednesday                17138 commits       █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Thursday                 19898 commits       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 Friday                   11714 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 4525 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Saturday                 4528 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 Sunday                   4067 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
@@ -153,6 +153,12 @@ Mac                      36 mins             ░░░░░░░░░░░�
 GPT                      15,703 lines        ██████████████░░░░░░░░░░░   57.26 % 
 Opus                     11,723 lines        ███████████░░░░░░░░░░░░░░   42.74 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,860 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -168,5 +174,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 23:39:59 UTC
+ Last Updated on 27/10/2026 04:49:56 UTC
 <!--END_SECTION:waka-->
