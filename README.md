@@ -153,12 +153,6 @@ Mac                      36 mins             ░░░░░░░░░░░�
 GPT                      17,179 lines        ███████████████████████░░   91.17 % 
 Opus                     1,663 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,374 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
