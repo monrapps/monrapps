@@ -72,19 +72,19 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-453%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 422.7 kB Used in GitHub's Storage 
+> 📦 424.6 kB Used in GitHub's Storage 
  > 
-> 🏆 11,194 Contributions in the Year 2026
+> 🏆 11,206 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,18 +95,18 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21619 commits       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-🌆 Daytime                34381 commits       ██████████░░░░░░░░░░░░░░░   40.21 % 
-🌃 Evening                17739 commits       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-🌙 Night                  11767 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+🌞 Morning                21615 commits       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌆 Daytime                34377 commits       ██████████░░░░░░░░░░░░░░░   40.20 % 
+🌃 Evening                17743 commits       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌙 Night                  11779 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13907 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Tuesday                  17293 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Wednesday                16183 commits       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Thursday                 18813 commits       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Monday                   13908 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  17295 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Wednesday                16196 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Thursday                 18805 commits       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
 Friday                   11268 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Saturday                 4153 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 Sunday                   3889 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
@@ -119,40 +119,46 @@ Sunday                   3889 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    13 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.42 % 
-Markdown                 6 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Python                   2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Text                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-TypeScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    14 hrs 45 mins      ███████████████░░░░░░░░░░   59.25 % 
+Markdown                 3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Text                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TypeScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🐱‍💻 Projects: 
-wlm-infra                8 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
-gww-v6i_jiga             6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Terminal                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-nouvenn                  3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-firmware_nb_iot          2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+wlm-infra                9 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
+Terminal                 5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+gww-v6i_jiga             4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+firmware_nb_iot          2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+openvpn-ui               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 💻 Operating System: 
-WSL                      27 hrs 27 mins      █████████████████████████   99.62 % 
-Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+WSL                      24 hrs 40 mins      █████████████████████████   99.06 % 
+Mac                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 36 mins (85.66%)
+⏱ AI Coding Time: 20 hrs 11 mins (81.06%)
 
-✍️ 5,056 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,907 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 46,868,863 Input Tokens, 7,492,521 Output Tokens
+🔤 37,559,414 Input Tokens, 5,987,526 Output Tokens
 
-💵 $787.22 Estimated AI Cost This Week
+💵 $655.34 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 57 AI Prompts
+🧠 18 AI Sessions, 51 AI Prompts
 
-Opus                     3,468 lines         █████████████████░░░░░░░░   67.56 % 
-GPT                      1,665 lines         ████████░░░░░░░░░░░░░░░░░   32.44 % 
+Opus                     4,094 lines         █████████████████████████   99.39 % 
+GPT                      25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,067 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -168,5 +174,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 06:05:42 UTC
+ Last Updated on 04/11/2026 15:28:18 UTC
 <!--END_SECTION:waka-->
