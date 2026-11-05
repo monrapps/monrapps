@@ -72,19 +72,19 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 424.9 kB Used in GitHub's Storage 
+> 📦 425.6 kB Used in GitHub's Storage 
  > 
-> 🏆 11,292 Contributions in the Year 2026
+> 🏆 11,296 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,69 +92,6 @@ const monra = {
  > 
 > 🔑 39 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                16098 commits       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌆 Daytime                23282 commits       █████████░░░░░░░░░░░░░░░░   37.73 % 
-🌃 Evening                11959 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-🌙 Night                  10363 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   10386 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Tuesday                  12357 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Wednesday                11614 commits       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Thursday                 12519 commits       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Friday                   8142 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Saturday                 3182 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Sunday                   3502 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Other                    14 hrs 45 mins      ███████████████░░░░░░░░░░   59.25 % 
-Markdown                 3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Text                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-TypeScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-
-🐱‍💻 Projects: 
-wlm-infra                9 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
-Terminal                 5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-gww-v6i_jiga             4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-firmware_nb_iot          2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-openvpn-ui               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-
-💻 Operating System: 
-WSL                      24 hrs 40 mins      █████████████████████████   99.06 % 
-Mac                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 hrs 11 mins (81.06%)
-
-✍️ 3,907 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 37,559,414 Input Tokens, 5,987,526 Output Tokens
-
-💵 $655.34 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 51 AI Prompts
-
-Opus                     4,094 lines         █████████████████████████   99.39 % 
-GPT                      25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -168,5 +105,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 06:25:40 UTC
+ Last Updated on 05/11/2026 15:37:04 UTC
 <!--END_SECTION:waka-->
