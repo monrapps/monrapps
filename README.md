@@ -119,41 +119,47 @@ Sunday                   3901 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    37 hrs 9 mins       █████████████████░░░░░░░░   68.84 % 
-Markdown                 6 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Python                   2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Text                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-C++                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    34 hrs 37 mins      █████████████████░░░░░░░░   68.05 % 
+Markdown                 6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Python                   2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+TypeScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-Terminal                 16 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-firmware_nb_iot          13 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-wlm-infra                8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-car-scrapper             5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-gww-v6i_jiga             3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Terminal                 16 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
+firmware_nb_iot          14 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+wlm-infra                6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+car-scrapper             5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+gww-v6i_jiga             2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 💻 Operating System: 
-WSL                      47 hrs 38 mins      ██████████████████████░░░   88.26 % 
-Linux                    3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Mac                      2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+WSL                      44 hrs 33 mins      ██████████████████████░░░   87.55 % 
+Linux                    3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Mac                      2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 2 mins (77.9%)
+⏱ AI Coding Time: 38 hrs 54 mins (76.47%)
 
-✍️ 7,793 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,180 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 68,007,552 Input Tokens, 11,135,914 Output Tokens
+🔤 65,958,527 Input Tokens, 11,280,368 Output Tokens
 
-💵 $1007.34 Estimated AI Cost This Week
+💵 $999.94 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 136 AI Prompts
+🧠 37 AI Sessions, 117 AI Prompts
 
-GPT                      3,961 lines         █████████████░░░░░░░░░░░░   50.67 % 
-Opus                     3,857 lines         ████████████░░░░░░░░░░░░░   49.33 % 
+Opus                     4,266 lines         █████████████░░░░░░░░░░░░   51.85 % 
+GPT                      3,961 lines         ████████████░░░░░░░░░░░░░   48.15 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,635 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -169,5 +175,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 01:37:54 UTC
+ Last Updated on 12/11/2026 08:14:30 UTC
 <!--END_SECTION:waka-->
