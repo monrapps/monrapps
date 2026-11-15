@@ -155,12 +155,6 @@ Opus                     6,385 lines         ███████████�
 GPT                      3,854 lines         █████████░░░░░░░░░░░░░░░░   37.08 % 
 Fable                    156 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,808 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
