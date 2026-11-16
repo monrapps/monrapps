@@ -78,13 +78,13 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 424.8 kB Used in GitHub's Storage 
  > 
-> 🏆 11,791 Contributions in the Year 2026
+> 🏆 11,798 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,21 +95,21 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22965 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-🌆 Daytime                35763 commits       ██████████░░░░░░░░░░░░░░░   39.39 % 
-🌃 Evening                19820 commits       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-🌙 Night                  12254 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+🌞 Morning                22967 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌆 Daytime                35784 commits       ██████████░░░░░░░░░░░░░░░   39.40 % 
+🌃 Evening                19826 commits       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+🌙 Night                  12254 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   14465 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Tuesday                  18579 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Tuesday                  18579 commits       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 Wednesday                17592 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Thursday                 19292 commits       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Friday                   12120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Thursday                 19292 commits       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   12123 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 Saturday                 4541 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Sunday                   4213 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Sunday                   4239 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 ```
 
 
@@ -155,6 +155,12 @@ Opus                     6,385 lines         ███████████�
 GPT                      3,854 lines         █████████░░░░░░░░░░░░░░░░   37.08 % 
 Fable                    156 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,808 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,5 +176,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 15:04:41 UTC
+ Last Updated on 16/11/2026 00:05:39 UTC
 <!--END_SECTION:waka-->
