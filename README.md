@@ -82,7 +82,7 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 424.8 kB Used in GitHub's Storage 
+> 📦 424.2 kB Used in GitHub's Storage 
  > 
 > 🏆 11,798 Contributions in the Year 2026
  > 
@@ -155,6 +155,12 @@ Opus                     6,385 lines         ███████████�
 GPT                      3,854 lines         █████████░░░░░░░░░░░░░░░░   37.08 % 
 Fable                    156 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,808 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,5 +176,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 00:05:39 UTC
+ Last Updated on 16/11/2026 06:11:59 UTC
 <!--END_SECTION:waka-->
