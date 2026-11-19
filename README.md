@@ -72,19 +72,19 @@ const monra = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C807%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-540%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-547%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 424.6 kB Used in GitHub's Storage 
  > 
-> 🏆 11,985 Contributions in the Year 2026
+> 🏆 12,002 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,21 +95,21 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23025 commits       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-🌆 Daytime                35969 commits       ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌃 Evening                19910 commits       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-🌙 Night                  12295 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+🌞 Morning                23818 commits       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌆 Daytime                36642 commits       ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Evening                20545 commits       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌙 Night                  12410 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14547 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Tuesday                  18677 commits       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Wednesday                17686 commits       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Thursday                 19341 commits       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Friday                   12139 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 4552 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Sunday                   4257 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Monday                   14941 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Tuesday                  19020 commits       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Wednesday                18041 commits       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Thursday                 19641 commits       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Friday                   12427 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 4779 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   4566 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 
@@ -155,14 +155,20 @@ Opus                     9,667 lines         ███████████�
 Fable                    3,790 lines         ███████░░░░░░░░░░░░░░░░░░   26.31 % 
 GPT                      946 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,330 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               26 repos            █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+TypeScript               25 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
@@ -170,5 +176,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 16:59:03 UTC
+ Last Updated on 19/11/2026 01:30:12 UTC
 <!--END_SECTION:waka-->
