@@ -155,6 +155,12 @@ Opus                     9,480 lines         ███████████�
 Fable                    4,732 lines         ████████░░░░░░░░░░░░░░░░░   30.82 % 
 GPT                      1,143 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,462 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,5 +176,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 01:15:03 UTC
+ Last Updated on 21/11/2026 07:03:31 UTC
 <!--END_SECTION:waka-->
