@@ -78,13 +78,13 @@ const monra = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 429.2 kB Used in GitHub's Storage 
+> 📦 429.9 kB Used in GitHub's Storage 
  > 
-> 🏆 12,147 Contributions in the Year 2026
+> 🏆 12,182 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,21 +95,21 @@ const monra = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23958 commits       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-🌆 Daytime                36858 commits       ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌃 Evening                20852 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌙 Night                  12526 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌞 Morning                23976 commits       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+🌆 Daytime                37018 commits       ██████████░░░░░░░░░░░░░░░   39.20 % 
+🌃 Evening                20905 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+🌙 Night                  12528 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15013 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Tuesday                  19241 commits       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Wednesday                18240 commits       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Thursday                 19787 commits       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Friday                   12482 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 4819 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Sunday                   4612 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Monday                   15015 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Tuesday                  19320 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Wednesday                18287 commits       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Thursday                 19802 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Friday                   12516 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Saturday                 4819 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Sunday                   4668 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 
 
@@ -155,20 +155,26 @@ GPT                      3,466 lines         ███████████�
 Opus                     2,606 lines         █████████░░░░░░░░░░░░░░░░   36.15 % 
 Fable                    1,137 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,923 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               25 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TypeScript               25 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Python                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+JavaScript               13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
 
 
- Last Updated on 24/11/2026 18:59:06 UTC
+ Last Updated on 25/11/2026 03:43:38 UTC
 <!--END_SECTION:waka-->
