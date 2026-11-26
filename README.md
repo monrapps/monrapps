@@ -82,9 +82,9 @@ const monra = {
 
 **🐱 My GitHub Data** 
 
-> 📦 432.2 kB Used in GitHub's Storage 
+> 📦 433.4 kB Used in GitHub's Storage 
  > 
-> 🏆 12,209 Contributions in the Year 2026
+> 🏆 12,216 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,9 +96,9 @@ const monra = {
 
 ```text
 🌞 Morning                23967 commits       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-🌆 Daytime                37002 commits       ██████████░░░░░░░░░░░░░░░   39.19 % 
+🌆 Daytime                37004 commits       ██████████░░░░░░░░░░░░░░░   39.19 % 
 🌃 Evening                20902 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌙 Night                  12545 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+🌙 Night                  12552 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -106,8 +106,8 @@ const monra = {
 Monday                   14992 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 Tuesday                  19318 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 Wednesday                18316 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Thursday                 19790 commits       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Friday                   12516 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 19799 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Friday                   12516 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 Saturday                 4816 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 Sunday                   4668 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
@@ -119,42 +119,48 @@ Sunday                   4668 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    28 hrs 44 mins      ███████████████░░░░░░░░░░   60.74 % 
-Markdown                 8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-TypeScript               4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-JavaScript               2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Text                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other                    27 hrs 50 mins      ███████████████░░░░░░░░░░   59.21 % 
+Markdown                 8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+TypeScript               4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Text                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-car-scrapper             10 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Terminal                 8 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-gpu-scrapper             5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-firmware_nb_iot          5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-gww-v6i_jiga             4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+car-scrapper             13 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Terminal                 9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+firmware_nb_iot          5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+gpu-scrapper             5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+gww-v6i_jiga             4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 💻 Operating System: 
-WSL                      46 hrs 34 mins      █████████████████████████   98.41 % 
-Mac                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+WSL                      46 hrs 16 mins      █████████████████████████   98.43 % 
+Mac                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 55 mins (86.49%)
+⏱ AI Coding Time: 39 hrs 28 mins (83.95%)
 
-✍️ 8,476 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,049 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 71,699,270 Input Tokens, 10,251,481 Output Tokens
+🔤 72,486,671 Input Tokens, 9,833,462 Output Tokens
 
-💵 $1370.24 Estimated AI Cost This Week
+💵 $1300.62 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 145 AI Prompts
+🧠 36 AI Sessions, 125 AI Prompts
 
-Opus                     4,935 lines         ██████████████░░░░░░░░░░░   57.77 % 
-GPT                      2,666 lines         ████████░░░░░░░░░░░░░░░░░   31.21 % 
-Fable                    942 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Opus                     4,696 lines         ██████████████░░░░░░░░░░░   57.93 % 
+GPT                      2,469 lines         ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Fable                    942 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,018 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,5 +176,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 03:15:57 UTC
+ Last Updated on 26/11/2026 18:12:14 UTC
 <!--END_SECTION:waka-->
