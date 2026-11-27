@@ -154,12 +154,6 @@ Linux                    32 mins             ░░░░░░░░░░░�
 Opus                     6,506 lines         ██████████████████░░░░░░░   72.49 % 
 GPT                      2,469 lines         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,414 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
